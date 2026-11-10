@@ -1,6 +1,6 @@
 {
-  "version": "1.12.5",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.5/FlowerShop-Setup-1.12.5.exe",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.5/FlowerShop-1.12.5.zip",
-  "notes": "Обновление через установщик Windows: скачивается в «Загрузки», программа закрывается, ставится и запускается сама."
+  "version": "1.12.6",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.6/FlowerShop-Setup-1.12.6.exe",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.6/FlowerShop-1.12.6.zip",
+  "notes": "Исправлена отправка в MAX: текст и фото теперь передаются через буфер обмена (Ctrl+V в чате)."
 }
