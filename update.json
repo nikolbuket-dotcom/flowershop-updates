@@ -1,6 +1,7 @@
 {
-  "version": "1.12.6",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.6/FlowerShop-Setup-1.12.6.exe",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.6/FlowerShop-1.12.6.zip",
-  "notes": "Исправлена отправка в MAX: текст и фото теперь передаются через буфер обмена (Ctrl+V в чате)."
+  "version": "1.12.7",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.7/FlowerShop-Setup-1.12.7.exe",
+  "sha256": "084e9742495b044e496ec9eea4f0f41205c9fbcae465a5310c09c80567bb258e",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.7/FlowerShop-1.12.7.zip",
+  "notes": "Исправлено обновление на ПК с антивирусной фильтрацией сети (ошибка сертификата). Проверка установщика по контрольной сумме."
 }
