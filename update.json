@@ -1,5 +1,6 @@
 {
-  "version": "1.12.4",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.4/FlowerShop-1.12.4.zip",
-  "notes": "Меню «Файл»: печать каталога (Ctrl+P) и печать выбранных (Ctrl+Shift+P). Единый стиль интерфейса."
+  "version": "1.12.5",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.5/FlowerShop-Setup-1.12.5.exe",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.5/FlowerShop-1.12.5.zip",
+  "notes": "Обновление через установщик Windows: скачивается в «Загрузки», программа закрывается, ставится и запускается сама."
 }
