@@ -1,5 +1,5 @@
 {
-  "version": "1.12.2",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.2/FlowerShop-1.12.2.zip",
-  "notes": "Номер версии в строке состояния внизу окна"
+  "version": "1.12.3",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.3/FlowerShop-1.12.3.zip",
+  "notes": "Надёжное обновление: больше время скачивания, повторные попытки, проверка целостности пакета, журнал ошибок update_log.txt"
 }
