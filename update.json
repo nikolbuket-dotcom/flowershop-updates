@@ -1,7 +1,7 @@
 {
-  "version": "1.12.9",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.9/FlowerShop-Setup-1.12.9.exe",
-  "sha256": "67d3253d29ccf81e241f19456dea79237090e638b691937bc04ee96a708664df",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.9/FlowerShop-1.12.9.zip",
-  "notes": "Исправлено автообновление: установщик молча отменялся, если программа была запущена. Плюс отправка фото из 1.12.8."
+  "version": "1.13.0",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.13.0/FlowerShop-Setup-1.13.0.exe",
+  "sha256": "7f995f48b51e81ac2efe3efce5851dcb3055d5d60594dbee0a8f6fe981f90ba0",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.13.0/FlowerShop-1.13.0.zip",
+  "notes": "Отправка в MAX: кнопка MAX копирует текст и открывает проводник с файлом фото. Надёжное автообновление."
 }
