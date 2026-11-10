@@ -1,7 +1,7 @@
 {
-  "version": "1.12.8",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.8/FlowerShop-Setup-1.12.8.exe",
-  "sha256": "b8903eefcad990ddebe1d685b6278c2ad658aa8067c43b8efe22666bb9ed418f",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.8/FlowerShop-1.12.8.zip",
-  "notes": "Фото в мессенджеры: буфер обмена получает фото двумя способами (картинка + файл) — Ctrl+V работает и в MAX; кнопка «Показать файл фото»."
+  "version": "1.12.9",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.9/FlowerShop-Setup-1.12.9.exe",
+  "sha256": "67d3253d29ccf81e241f19456dea79237090e638b691937bc04ee96a708664df",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.12.9/FlowerShop-1.12.9.zip",
+  "notes": "Исправлено автообновление: установщик молча отменялся, если программа была запущена. Плюс отправка фото из 1.12.8."
 }
