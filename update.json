@@ -1,7 +1,7 @@
 {
-  "version": "1.14.3",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.3/FlowerShop-Setup-1.14.3.exe",
-  "sha256": "a00ff0a7c1500e33e6cfba5e28d5ede8ae31c8833c39508629e872a048bd1559",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.3/FlowerShop-1.14.3.zip",
-  "notes": "Окно отправки открывается с пустым полем; список букетов вставляется кнопкой; мессенджеры при пустом поле используют список сами."
+  "version": "1.14.4",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.4/FlowerShop-Setup-1.14.4.exe",
+  "sha256": "c56b0206d7a7181f14c245c2b09a64e38f46e896e35e6902b9ae9f6e819e5856",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.4/FlowerShop-1.14.4.zip",
+  "notes": "Из окна отправки убрано «Скопировать текст»; архив выбранных — в меню «Сервис» ниже экспорта в PrestaShop."
 }
