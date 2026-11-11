@@ -1,7 +1,7 @@
 {
-  "version": "1.13.0",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.13.0/FlowerShop-Setup-1.13.0.exe",
-  "sha256": "7f995f48b51e81ac2efe3efce5851dcb3055d5d60594dbee0a8f6fe981f90ba0",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.13.0/FlowerShop-1.13.0.zip",
-  "notes": "Отправка в MAX: кнопка MAX копирует текст и открывает проводник с файлом фото. Надёжное автообновление."
+  "version": "1.14.0",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.0/FlowerShop-Setup-1.14.0.exe",
+  "sha256": "ca85139784360b2106b7e222eab1b9017d463bd026ab1e19ac88f78836736097",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.0/FlowerShop-1.14.0.zip",
+  "notes": "Новый дизайн «Тёплая витрина»: молочный фон, скруглённые карточки и кнопки-пилюли."
 }
