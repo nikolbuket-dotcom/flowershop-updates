@@ -1,7 +1,7 @@
 {
-  "version": "1.14.1",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.1/FlowerShop-Setup-1.14.1.exe",
-  "sha256": "9ee67f0fc4e1609575bbcf448cfb2b4a9a971ff9d0d7f27634f791fbf5cdcc68",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.1/FlowerShop-1.14.1.zip",
-  "notes": "Убраны белые уголки у фото, галочка выбора снова заметная, в поиске лупа и текст «Поиск…»."
+  "version": "1.14.2",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.2/FlowerShop-Setup-1.14.2.exe",
+  "sha256": "7d9f0c71443c5bbdf43a75278e068cc85d7dd4fa9ec2de2cc8f8e8816a941e94",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.2/FlowerShop-1.14.2.zip",
+  "notes": "Прямые углы у фото, выровненный кружок галочки, рамка выбора совпадает с краем фото."
 }
