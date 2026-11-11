@@ -1,7 +1,7 @@
 {
-  "version": "1.14.2",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.2/FlowerShop-Setup-1.14.2.exe",
-  "sha256": "7d9f0c71443c5bbdf43a75278e068cc85d7dd4fa9ec2de2cc8f8e8816a941e94",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.2/FlowerShop-1.14.2.zip",
-  "notes": "Прямые углы у фото, выровненный кружок галочки, рамка выбора совпадает с краем фото."
+  "version": "1.14.3",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.3/FlowerShop-Setup-1.14.3.exe",
+  "sha256": "a00ff0a7c1500e33e6cfba5e28d5ede8ae31c8833c39508629e872a048bd1559",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.3/FlowerShop-1.14.3.zip",
+  "notes": "Окно отправки открывается с пустым полем; список букетов вставляется кнопкой; мессенджеры при пустом поле используют список сами."
 }
