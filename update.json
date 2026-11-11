@@ -1,7 +1,7 @@
 {
-  "version": "1.14.0",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.0/FlowerShop-Setup-1.14.0.exe",
-  "sha256": "ca85139784360b2106b7e222eab1b9017d463bd026ab1e19ac88f78836736097",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.0/FlowerShop-1.14.0.zip",
-  "notes": "Новый дизайн «Тёплая витрина»: молочный фон, скруглённые карточки и кнопки-пилюли."
+  "version": "1.14.1",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.1/FlowerShop-Setup-1.14.1.exe",
+  "sha256": "9ee67f0fc4e1609575bbcf448cfb2b4a9a971ff9d0d7f27634f791fbf5cdcc68",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.1/FlowerShop-1.14.1.zip",
+  "notes": "Убраны белые уголки у фото, галочка выбора снова заметная, в поиске лупа и текст «Поиск…»."
 }
