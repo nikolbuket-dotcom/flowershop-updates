@@ -1,7 +1,7 @@
 {
-  "version": "1.14.4",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.4/FlowerShop-Setup-1.14.4.exe",
-  "sha256": "c56b0206d7a7181f14c245c2b09a64e38f46e896e35e6902b9ae9f6e819e5856",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.4/FlowerShop-1.14.4.zip",
-  "notes": "Из окна отправки убрано «Скопировать текст»; архив выбранных — в меню «Сервис» ниже экспорта в PrestaShop."
+  "version": "1.14.5",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.5/FlowerShop-Setup-1.14.5.exe",
+  "sha256": "8da38630eee15f5f07083d1b25a4ec5f3e8064d5583d0154244a60b3de8d99b6",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.5/FlowerShop-1.14.5.zip",
+  "notes": "Кнопка MAX работает за один клик: фото-подборка и текст копируются в буфер вместе — в чате MAX достаточно Ctrl+V."
 }
