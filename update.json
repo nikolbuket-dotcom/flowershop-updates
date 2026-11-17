@@ -1,7 +1,7 @@
 {
-  "version": "1.14.10",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.10/FlowerShop-Setup-1.14.10.exe",
-  "sha256": "428f28179e73dd36aa93f409767fc4eaabd4c4a2707131baa4ea0ee7a17347cc",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.10/FlowerShop-1.14.10.zip",
-  "notes": "Галочки на фото убраны: выбранные карточки выделяются только синей рамкой."
+  "version": "1.15.0",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.0/FlowerShop-Setup-1.15.0.exe",
+  "sha256": "00f8c9545db04b552f631e905c572093a36fbcc49f4c20df1e56581ad1b71628",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.0/FlowerShop-1.15.0.zip",
+  "notes": "Работа нескольких ПК с одним каталогом: меню «Сервис» → «Папка с данными…» — общая сетевая папка главного ПК (товары, фото, журнал — одни на всех)."
 }
