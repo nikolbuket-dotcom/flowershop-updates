@@ -1,7 +1,7 @@
 {
-  "version": "1.15.1",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.1/FlowerShop-Setup-1.15.1.exe",
-  "sha256": "be55e22938208923910aca76559c0f22725e59a6fea5e54b12834e13d7c3a925",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.1/FlowerShop-1.15.1.zip",
-  "notes": "Защита от повторного запуска: вторая копия «Витрины» на том же ПК больше не открывается — на передний план выводится уже запущенное окно."
+  "version": "1.15.2",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.2/FlowerShop-Setup-1.15.2.exe",
+  "sha256": "9e7a9d1a9536498eff440ddf2f4836d0db05122aa39b066abd1a1142fc615847",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.2/FlowerShop-1.15.2.zip",
+  "notes": "Мгновенный запуск с общей сетевой папкой: фото копируются на локальный диск в фоне, витрина открывается сразу, фото подгружаются по мере синхронизации."
 }
