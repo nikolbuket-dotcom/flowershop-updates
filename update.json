@@ -1,7 +1,7 @@
 {
-  "version": "1.14.6",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.6/FlowerShop-Setup-1.14.6.exe",
-  "sha256": "258528d419f0ebb859f19eb803f40149d4bb15b79d78879bb85e5f10e1d78a6d",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.6/FlowerShop-1.14.6.zip",
-  "notes": "Программа теперь называется «Витрина»; новая фирменная иконка «Николь Букет» на рабочем столе, в меню Пуск и в заголовке окна."
+  "version": "1.14.7",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.7/FlowerShop-Setup-1.14.7.exe",
+  "sha256": "744b77abb72ecdc73da5c6d54cd46b009d149306e60baff7bd8cc70b39b02b48",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.7/FlowerShop-1.14.7.zip",
+  "notes": "Поле поиска стало шире; иконка программы перерисована для малых размеров — тюльпан читается в заголовке окна и на панели задач."
 }
