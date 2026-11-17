@@ -1,7 +1,7 @@
 {
-  "version": "1.15.0",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.0/FlowerShop-Setup-1.15.0.exe",
-  "sha256": "00f8c9545db04b552f631e905c572093a36fbcc49f4c20df1e56581ad1b71628",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.0/FlowerShop-1.15.0.zip",
-  "notes": "Работа нескольких ПК с одним каталогом: меню «Сервис» → «Папка с данными…» — общая сетевая папка главного ПК (товары, фото, журнал — одни на всех)."
+  "version": "1.15.1",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.1/FlowerShop-Setup-1.15.1.exe",
+  "sha256": "be55e22938208923910aca76559c0f22725e59a6fea5e54b12834e13d7c3a925",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.1/FlowerShop-1.15.1.zip",
+  "notes": "Защита от повторного запуска: вторая копия «Витрины» на том же ПК больше не открывается — на передний план выводится уже запущенное окно."
 }
