@@ -1,7 +1,7 @@
 {
-  "version": "1.14.8",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.8/FlowerShop-Setup-1.14.8.exe",
-  "sha256": "84e34bb074217667fe634da71723ae7dd31c354b50c5761b0a96de3b48a51ef4",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.8/FlowerShop-1.14.8.zip",
-  "notes": "В заголовок окна возвращено «перышко»; меню сортировки стало шире и с крупным текстом."
+  "version": "1.14.9",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.9/FlowerShop-Setup-1.14.9.exe",
+  "sha256": "e8e9c5d4531c13499f1ce3f902457b4f236ed57ade13d0dd5ff63b61c472ae84",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.9/FlowerShop-1.14.9.zip",
+  "notes": "Постоянные кружочки на фото убраны; при выборе букета в углу появляется синяя галочка."
 }
