@@ -1,7 +1,7 @@
 {
-  "version": "1.14.7",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.7/FlowerShop-Setup-1.14.7.exe",
-  "sha256": "744b77abb72ecdc73da5c6d54cd46b009d149306e60baff7bd8cc70b39b02b48",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.7/FlowerShop-1.14.7.zip",
-  "notes": "Поле поиска стало шире; иконка программы перерисована для малых размеров — тюльпан читается в заголовке окна и на панели задач."
+  "version": "1.14.8",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.8/FlowerShop-Setup-1.14.8.exe",
+  "sha256": "84e34bb074217667fe634da71723ae7dd31c354b50c5761b0a96de3b48a51ef4",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.14.8/FlowerShop-1.14.8.zip",
+  "notes": "В заголовок окна возвращено «перышко»; меню сортировки стало шире и с крупным текстом."
 }
