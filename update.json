@@ -1,7 +1,7 @@
 {
-  "version": "1.16.0",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.0/FlowerShop-Setup-1.16.0.exe",
-  "sha256": "11d18c3eb54af2d36361e9c0529bf24fbf5af11e02f933d7dad45878b2fa838f",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.0/FlowerShop-1.16.0.zip",
-  "notes": "Папки вместо категорий и подкатегорий: любая вложенность, папку можно положить в папку. Папки и карточки перетаскиваются мышью: на папку — вложить, на край строки — порядок. Клик по папке показывает её товары со вложенными папками. Старые данные переносятся автоматически."
+  "version": "1.16.1",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.1/FlowerShop-Setup-1.16.1.exe",
+  "sha256": "811e007fd3666b93ac37a0341649e6561e393f990dd520a4df3d9eea566aed28",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.1/FlowerShop-1.16.1.zip",
+  "notes": "Исправлено размножение окон обновления: окно обновления теперь всегда одно. Также в версии 1.16.0: папки любой вложенности вместо категорий, перетаскивание папок."
 }
