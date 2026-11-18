@@ -1,7 +1,7 @@
 {
-  "version": "1.15.2",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.2/FlowerShop-Setup-1.15.2.exe",
-  "sha256": "9e7a9d1a9536498eff440ddf2f4836d0db05122aa39b066abd1a1142fc615847",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.15.2/FlowerShop-1.15.2.zip",
-  "notes": "Мгновенный запуск с общей сетевой папкой: фото копируются на локальный диск в фоне, витрина открывается сразу, фото подгружаются по мере синхронизации."
+  "version": "1.16.0",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.0/FlowerShop-Setup-1.16.0.exe",
+  "sha256": "11d18c3eb54af2d36361e9c0529bf24fbf5af11e02f933d7dad45878b2fa838f",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.0/FlowerShop-1.16.0.zip",
+  "notes": "Папки вместо категорий и подкатегорий: любая вложенность, папку можно положить в папку. Папки и карточки перетаскиваются мышью: на папку — вложить, на край строки — порядок. Клик по папке показывает её товары со вложенными папками. Старые данные переносятся автоматически."
 }
