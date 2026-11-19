@@ -1,7 +1,7 @@
 {
-  "version": "1.16.2",
-  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.2/FlowerShop-Setup-1.16.2.exe",
-  "sha256": "6f3ec53cb7ba86e94224b22a7a3ebfbddf25f5fb74793f3eb8c64f22c304f849",
-  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.2/FlowerShop-1.16.2.zip",
-  "notes": "Исправлена защита от повторного запуска — теперь открывается ровно одна копия программы. Также: единое окно обновления и папки любой вложенности (см. 1.16.0)."
+  "version": "1.16.3",
+  "installer": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.3/FlowerShop-Setup-1.16.3.exe",
+  "sha256": "352b5ec65483ea6bff7c27e58b1705db5243db635c047df664e8bccf44031bcc",
+  "url": "https://github.com/nikolbuket-dotcom/flowershop-updates/releases/download/v1.16.3/FlowerShop-1.16.3.zip",
+  "notes": "Исправлено «не сохраняется картинка»: фото на ПК с общим каталогом появляется сразу после сохранения товара, синхронизация с сервером идёт постоянно, а не один раз при запуске."
 }
